@@ -2,7 +2,7 @@
 
 Ứng dụng nhận diện vùng văn bản Hán-Nôm sử dụng mô hình PaddleOCR v4 tùy chỉnh.
 
-![Giao diện ứng dụng](assets/screenshot_giao_dien.png)
+![Giao diện ứng dụng](assets/MainUI.png)
 
 ## ✨ Tính năng
 * **Giao diện cổ điển**: Thiết kế phong cách giấy bản, phông chữ Georgia sang trọng.
@@ -10,6 +10,6 @@
 * **Model tùy chỉnh**: Sử dụng model PP-OCRv4 đã được tinh chỉnh.
 
 ## 🛠️ Cách cài đặt
-1. Clone dự án: `git clone https://github.com/user/project.git`
+1. Clone dự án: `git clone https://github.com/fuzziouzz/ChineseTextDectectionWebsite.git`
 2. Cài đặt thư viện: `pip install -r requirements.txt`
 3. Chạy ứng dụng: `streamlit run app.py`
