@@ -12,4 +12,4 @@
 ## 🛠️ Cách cài đặt
 1. Clone dự án: `git clone https://github.com/fuzziouzz/ChineseTextDectectionWebsite.git`
 2. Cài đặt thư viện: `pip install -r requirements.txt`
-3. Chạy ứng dụng: `streamlit run app.py`
+3. Chạy ứng dụng: `streamlit run HanNomOCR.py`
