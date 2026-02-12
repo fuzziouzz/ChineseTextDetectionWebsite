@@ -14,5 +14,6 @@
   `git clone https://github.com/fuzziouzz/ChineseTextDectectionWebsite.git`
 2. Cài đặt thư viện:
    `pip install -r requirements.txt`
-3. Chạy ứng dụng:
+   (Khuyến nghị nên tạo môi trường ảo)
+4. Chạy ứng dụng:
    `streamlit run HanNomOCR.py`
