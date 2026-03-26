@@ -10,10 +10,11 @@
 * **Model tùy chỉnh**: Sử dụng model PP-OCRv4 đã được tinh chỉnh.
 
 ## 🛠️ Cách cài đặt
-1. Clone dự án:
+1. Clone dự án:  
   `git clone https://github.com/fuzziouzz/ChineseTextDectectionWebsite.git`
-2. Cài đặt thư viện:
+2. Tạo môi trường ảo và kích hoạt:  
+   `python -m venv env` sau đó `source env/bin/activate`
+4. Cài đặt thư viện:  
    `pip install -r requirements.txt`
-   (Khuyến nghị nên tạo môi trường ảo)
-4. Chạy ứng dụng:
+6. Chạy ứng dụng:  
    `streamlit run HanNomOCR.py`
